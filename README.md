@@ -1,7 +1,7 @@
 
 <img src="[https://imgs.search.brave.com/kvh2Zwc1vnkg5MWbgLuWzPM_Bwh-INsYRHmMcQ7ZMO8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zb2Ny/YWRhci5pby93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8wNy9m/dWQtMTIucG5n]">
 
-# UPDATED to: AxylCrypt (customized algorithms)
+# UPDATED to: AxylCrypt (customized algorithms) FUD UPDATED
 
 A runtime encryption tool for .Net + Native files.
 
